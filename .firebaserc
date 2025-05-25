@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "ambient-develop",
+    "dev": "ambient-develop",
+    "prod": "ambient-prod-36c16"
+  },
+  "targets": {},
+  "etags": {}
+}
